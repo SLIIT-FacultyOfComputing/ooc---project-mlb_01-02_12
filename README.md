@@ -4,7 +4,7 @@ Please go under edit and edit this file as needed for your project
 # Batch - 
 ### Group Leader - IT21061134 - Samarahewa N.Y (IT21061134)
 ### Member 2 - IT21096952 - Gunarathne K.M.S.M (IT21096952)
-### Member 3 - 
+### Member 3 - IT21103940 - Ekanayake E.M.D.S.B (IT21103940)
 ### Member 4 - 
 ### Member 5 - 
 ### Member 6 - 
